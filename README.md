@@ -4,5 +4,5 @@ It is a tool consisting of the latest and most widespread vulnerabilities, dedic
 
 This tool is designed for educational purposes and should not be used for any purpose, And if we find that the user does not comply with the terms or break the conditions , we will stop the tool.
 
-Read the readme.txt for any general questions, and contact me for any problems or specific work and private questions...
-[codeb0ss](https://t.me/codeb0ss)
+Read the readme.txt for any general questions, and contact me for any problems or specific work and private questions
+[codeb0ss](https://t.me/codeb0ss) .
